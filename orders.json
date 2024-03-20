@@ -1,0 +1,192 @@
+[
+    {
+        "customer_number": "0",
+        "customer_name": "admin",
+        "cart": [
+            8,
+            7,
+            4,
+            3
+        ],
+        "cart_price": 25.959999999999997
+    },
+    {
+        "customer_number": "0",
+        "customer_name": "admin",
+        "cart": [
+            7,
+            2,
+            10,
+            4,
+            5,
+            3
+        ],
+        "cart_price": 26.94
+    },
+    {
+        "customer_number": "0",
+        "customer_name": "admin",
+        "cart": [
+            2,
+            6,
+            3
+        ],
+        "cart_price": 7.970000000000001
+    },
+    {
+        "customer_number": "0",
+        "customer_name": "admin",
+        "cart": [
+            7,
+            4
+        ],
+        "cart_price": 13.98
+    },
+    {
+        "customer_number": "1",
+        "customer_name": "coop",
+        "cart": [
+            10,
+            6,
+            1,
+            4,
+            10,
+            6,
+            5,
+            5,
+            9,
+            6,
+            7,
+            2,
+            2
+        ],
+        "cart_price": 49.87000000000001
+    },
+    {
+        "customer_number": "1",
+        "customer_name": "coop",
+        "cart": [
+            5,
+            8,
+            7,
+            2,
+            6,
+            9,
+            1,
+            7,
+            10,
+            10,
+            7,
+            9
+        ],
+        "cart_price": 63.88000000000001
+    },
+    {
+        "customer_number": "2",
+        "customer_name": "ica",
+        "cart": [
+            7,
+            3,
+            8,
+            5,
+            2
+        ],
+        "cart_price": 26.950000000000003
+    },
+    {
+        "customer_number": "2",
+        "customer_name": "ica",
+        "cart": [
+            4,
+            9,
+            1,
+            8,
+            4,
+            7,
+            7,
+            1,
+            5
+        ],
+        "cart_price": 51.91000000000001
+    },
+    {
+        "customer_number": "3",
+        "customer_name": "robert",
+        "cart": [
+            5,
+            9,
+            10,
+            8,
+            9,
+            3,
+            1,
+            3,
+            5,
+            3,
+            5
+        ],
+        "cart_price": 41.89000000000001
+    },
+    {
+        "customer_number": "0",
+        "customer_name": "admin",
+        "cart": [
+            3,
+            4,
+            9,
+            5
+        ],
+        "cart_price": 15.96
+    },
+    {
+        "customer_number": "0",
+        "customer_name": "admin",
+        "cart": [
+            6,
+            2,
+            5,
+            7,
+            6
+        ],
+        "cart_price": 18.95
+    },
+    {
+        "customer_number": "0",
+        "customer_name": "admin",
+        "cart": [
+            9,
+            10,
+            9,
+            2,
+            6
+        ],
+        "cart_price": 19.95
+    },
+    {
+        "customer_number": "0",
+        "customer_name": "admin",
+        "cart": [
+            2,
+            3,
+            9,
+            9,
+            2
+        ],
+        "cart_price": 19.950000000000003
+    },
+    {
+        "customer_number": "0",
+        "customer_name": "admin",
+        "cart": [
+            5,
+            7,
+            3,
+            10,
+            8,
+            7,
+            8,
+            4
+        ],
+        "cart_price": 50.92000000000001
+    }
+]
